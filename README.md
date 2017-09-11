@@ -11,7 +11,7 @@ article tag in html
     <header>
       <h1>
         My Blog about articles in the html</h1>
-    <img width="800" height="200" src="http://www.f-covers.com/cover/the-elder-scrolls-skyrim-dragon-by-skstalker-facebook-cover-timeline-banner-for-fb.jpg" title="Background Pic" alt="picture of a Dragon on the Navigation" >
+    <img width="900" height="400" src="http://www.f-covers.com/cover/the-elder-scrolls-skyrim-dragon-by-skstalker-facebook-cover-timeline-banner-for-fb.jpg" title="Background Pic" alt="picture of a Dragon on the Navigation" >
  <nav>
    <ul>
      <li><a href="#Definition">Definition of article in html5</a></li>
