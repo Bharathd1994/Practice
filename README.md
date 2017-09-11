@@ -38,8 +38,8 @@ article tag in html
         <h3>Conclusion of the blog</h3>
         <p> Well, this is a tricky one since i dont have a conclusion for this but it's alright since it is just a practice </p>
       </article>
-      
-      <footer>
+            </main>
+    <footer>
 	  <hr>
         <p>written by Bharath Kumar Danaboina <br>Copyright 1999-2017 by Bharath Data. All Rights Reserved.</p>
         <h3> Contact Us</h3>
@@ -51,6 +51,5 @@ article tag in html
           </ul>
         </nav>
       </footer>
-      </main>
-    </body>
+</body>
 </html>
