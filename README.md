@@ -45,7 +45,7 @@ article tag in html
         <h3> Contact Us</h3>
         <nav>
           <ul>
-            <li>mail to <a href="mailto:bharathkumardanaboina@gmail.com">Email</a></li>
+            <li><a href="mailto:bharathkumardanaboina@gmail.com">Email</a></li>
             <li><a href="https://www.facebook.com/bharath.dragon">Facebook</li>
               <li><a href="https://twitter.com/darekrishna">Twitter </a></li>
           </ul>
