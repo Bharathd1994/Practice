@@ -7,7 +7,7 @@ article tag in html
     <meta name="viewport" content="width=device-width">
     <title>Articles</title>
   </head>
-  <body>
+  <body bgcolor="lightblue">
     <header>
       <h1>
         My Blog about articles in the html</h1>
@@ -41,7 +41,7 @@ article tag in html
             </main>
     <footer>
 	  <hr>
-        <p>written by Bharath Kumar Danaboina <br>Copyright 1999-2017 by Bharath Data. All Rights Reserved.</p>
+        <marquee><p>written by Bharath Kumar Danaboina <br>Copyright 1999-2017 by Bharath Data. All Rights Reserved.</p></marquee>
         <h3> Contact Us</h3>
         <nav>
           <ul>
